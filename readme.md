@@ -202,7 +202,7 @@ Also in `SemanticUiFactory` we are required to Implement `buildButton()` because
 
 [(17:50)]( https://youtu.be/8QylIGRYU7k?list=PLoonZ8wII66inyWXuikmI0ANxC9tKgZPY&t=1070 ) Here, in fact, is EVERYTHING. A fairly simple and powerful way to work with classes-families of objects, the ability to switch them.
 
---
+---
 
 [(18:25)]( https://youtu.be/8QylIGRYU7k?list=PLoonZ8wII66inyWXuikmI0ANxC9tKgZPY&t=1105 ) 
 _"Let's see Examples of those sources that I read."_
@@ -229,13 +229,13 @@ If you don't have product families, then you can't have an abstract factory.
 
 Many people confuse the Abstract Factory Pattern with a Simple Factory class declared as abstract, but they are far from the same thing!"
 
---
+---
 
 [(24:00)]( https://youtu.be/8QylIGRYU7k?list=PLoonZ8wII66inyWXuikmI0ANxC9tKgZPY&t=1440 )
 
 [ Example with the installation of doors of different types by different specialists. ]( https://habr.com/ru/company/vk/blog/325492/ )
 
---
+---
 
 [(28:20)]( https://youtu.be/8QylIGRYU7k?list=PLoonZ8wII66inyWXuikmI0ANxC9tKgZPY&t=1700 ) 
 
